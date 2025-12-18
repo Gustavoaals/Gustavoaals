@@ -18,6 +18,7 @@ Gosto de aprender na prática, criando projetos e evoluindo constantemente.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
 
+
 <!--
 **Gustavoaals/Gustavoaals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
