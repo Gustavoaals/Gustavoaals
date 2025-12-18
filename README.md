@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Hello everybody! 👋  
 Estudante de Ciência da Computação, curioso e sempre em busca de aprendizado, com foco em Desenvolvimento Backend.
 
